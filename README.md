@@ -32,5 +32,5 @@ PRACTICA_01_SEVP/
 ## Miembros del equipo
 
 - David Sánchez Elías
-- [Nombre completo de tu compañero]
+- Jesús Vargas Pacheco
 
